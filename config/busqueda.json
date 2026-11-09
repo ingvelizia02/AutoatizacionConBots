@@ -1,0 +1,13 @@
+{
+  "ubicacion": "",
+  "ubicaciones_opcionales": [
+    "México", "España", "Colombia", "Argentina", "Chile", "Perú",
+    "Ecuador", "República Dominicana", "Guatemala", "Venezuela"
+  ],
+  "nichos": {
+    "salud_y_belleza": ["clínica dental", "consultorio médico", "veterinaria", "spa"],
+    "restaurantes": ["restaurante", "delivery de comida", "pollería"],
+    "inmobiliaria": ["inmobiliaria", "agente de bienes raíces", "venta de departamentos"]
+  },
+  "resultados_por_busqueda": 15
+}
